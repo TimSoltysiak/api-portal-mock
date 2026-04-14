@@ -1,0 +1,9 @@
+[
+    {
+        "name": "Test API",
+        "versions": [
+            {"name": "v1.4.0", "path": "openapi/TestAPI/Test-api-v1.4.0.json"},
+            {"name": "v1.4.1", "path": "openapi/TestAPI/Test-api-v1.4.1.json"}
+        ]
+    }
+]
