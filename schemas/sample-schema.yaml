@@ -1,0 +1,4 @@
+$schema: "https://json-schema.org/draft/2020-12/schema"
+title: Sample Schema
+type: object
+properties: {}
